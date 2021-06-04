@@ -1,0 +1,7 @@
+{
+  "name": "dsc-download",
+  "version-date": "2021-06-04",
+  "maintainers": "Kai Pastor <dg0yt@darc.de>",
+  "description": "vcpkg maintainer function for downloading Debian source packages",
+  "homepage": "https://github.com/dg0yt/dsc-ports/blob/main/ports/dsc-download/portfile.cmake"
+}
