@@ -1,0 +1,17 @@
+{
+  "name": "zlib",
+  "version": "1.12.11",
+  "maintainers": "Kai Pastor <dg0yt@darc.de>",
+  "description": "Compression library",
+  "homepage": "https://github.com/dg0yt/dsc-ports/blob/main/ports/zlib/portfile.cmake",
+  "dependencies": [
+    {
+      "name": "dsc-download",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    }
+  ]
+}
