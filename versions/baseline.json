@@ -7,6 +7,14 @@
     "dsc-download": {
       "baseline": "2021-06-04",
       "port-version": 0
+    },
+    "xz-utils": {
+      "baseline": "5.2.4",
+      "port-version": 0
+    },
+    "zlib": {
+      "baseline": "1.12.11",
+      "port-version": 0
     }
   }
 }
